@@ -7,7 +7,7 @@
 ## Application Demo and User Interfaces
 
 ### Demo Video
-https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/468228de-33b3-430f-bb5b-292ff3f24783
+https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/b92ae6c8-e2cb-4168-8e1c-fe54df6e0876
 
 ### User Interfaces
 
