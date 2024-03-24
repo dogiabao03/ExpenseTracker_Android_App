@@ -12,17 +12,17 @@ https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/b92ae6
 ### User Interfaces
 
 <p float="left">
-  <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/4b8a2409-09e6-4673-81d5-dab0c6055f84" width="200" />
-  <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/9fe0605f-7801-47c3-bc8e-8cfded3e1f3e" width="200" /> 
-  <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/e03972af-2422-445d-b6b1-73d09ecaba54" width="200" />
-  <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/edc587fe-05c1-422c-b99a-8ce93095b575" width="200" />
+  <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/cd3639a2-53e7-4edb-b310-f579ee2700d3" width="200" />
+  <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/e38b0513-fa19-4fd1-bb04-9dfd6faea41f" width="200" /> 
+  <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/95f2e9e7-e71a-4a87-ab57-7453c7cc5b3b" width="200" />
+  <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/618911a6-7e6d-4eb2-aa91-94cf75323dc0" width="200" />
 </p>
 
 <p float="left">
-    <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/e4bf1350-3969-434a-83a6-69309d30be00" width="200" /> 
-    <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/bf901785-19dd-4c91-96eb-1ffa2a174fe5" width="200" />
-    <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/0c7ebae7-9c3d-45a2-a1c0-337d260c7bfe" width="200" />
-  <img src="https://github.com/dogiabao03/ExpenseTracker_App/assets/164715366/3e36d58e-1826-4734-b790-6be4582d73a9" width="200" /> 
+    <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/8edb7f05-9422-46ad-8ecb-d996d8f7548a" width="200" /> 
+    <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/bb415c30-8ec9-4bcb-8f9b-336d290dc9da" width="200" />
+    <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/f55815a2-7ab2-4114-b19b-15b5ac9baad7" width="200" />
+    <img src="https://github.com/dogiabao03/ExpenseTracker_Android_App/assets/164715366/920ba919-36ff-4d25-91c3-7811d3c59199" width="200" /> 
 </p>
 
 ## Technical Stack 
